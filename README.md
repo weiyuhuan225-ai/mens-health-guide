@@ -1,4 +1,8 @@
-# 如何撸好每一管
+# 如何撸好每一管 / How to Masturbate Well
+
+中文 | [English](README.en.md)
+
+**在线阅读：[中文版](https://weiyuhuan225-ai.github.io/mens-health-guide/) · [English edition](https://weiyuhuan225-ai.github.io/mens-health-guide/en.html)**
 
 面向成年男性的通俗性健康可视化指南，基于一篇含 32 条参考资料的叙述性文献综述改写。
 
@@ -12,7 +16,7 @@
 
 ## 阅读与运行
 
-直接打开 `index.html` 即可。HTML、CSS、JavaScript 和参考资料均包含在页面中，无需安装依赖，无第三方字体、脚本或分析服务。外部链接仅用于查阅文献或访问仓库。
+中文版打开 `index.html`，英文版打开 `en.html`。两版顶部均可切换语言。HTML、CSS、JavaScript 和参考资料均包含在页面中，无需安装依赖，无第三方字体、脚本或分析服务。外部链接仅用于查阅文献或访问仓库。
 
 页面适配手机与电脑，支持键盘操作、减少动画偏好及浏览器打印。正文引用可展开并定位参考文献。没有启用 JavaScript 时，四个护理阶段和完整文献仍可阅读。
 
@@ -22,7 +26,9 @@ GitHub Pages 可从 `main` 分支的根目录发布，`.nojekyll` 用于直接�
 
 | 文件 | 用途 |
 | --- | --- |
-| `index.html` | 完整单文件网页 |
+| `index.html` | 中文单文件网页 |
+| `en.html` | 英文单文件网页 |
+| `README.en.md` | 英文项目说明 |
 | `references.json` | 32 条参考文献及原始编号映射 |
 | `.nojekyll` | 静态发布标记 |
 
